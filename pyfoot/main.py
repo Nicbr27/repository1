@@ -2,8 +2,10 @@ def LerArquivo():
   # Inicialize uma lista para armazenar as informações
   informacoes = []
   # Abra o arquivo em modo de leitura
-  with open('copadomundo.txt', 'a') as arquivo:
+  with open("copadomundo.txt", "a") as arquivo:
       for linha in arquivo:
+          
+
           # Divida a linha em elementos usando a vírgula como separador
           elementos = linha.strip().split(',')
           # Adicione os elementos à lista de informações
@@ -13,7 +15,6 @@ def LerArquivo():
 print("Olá! Você está buscando informações sobre o mundo do futebol? Siga o passo a passo e torne-se um gênio da bola!\n")
 
 while True:
-  encontrou = False
   print("Digite 1 para: UEFA Champions League")
   print("Digite 2 para: Libertadores")
   print("Digite 3 para: Copa do Mundo")
@@ -34,31 +35,27 @@ while True:
       # Você pode implementar a pesquisa para a Libertadores aqui
   elif camp == 3:
       print("Vejo que você é um admirador do futebol mundial. Ótimo gosto!")
-      ano_pesquisa = int(input("Agora, digite o ano da temporada que você deseja saber: "))
+      ano_pesquisa = str(input("Agora, digite o ano da temporada que você deseja saber: "))
+      
+      with open(f"copadomundo.txt", "r", encoding="utf-8") as file:
+         arquivo = file.read()
+         linhas = arquivo.split(f"\n")
+         anos = dict()
+         for l in linhas:
+ 
+            ANO, CAMPEAO, VICE, ART, PART, GOLS, SEDE, CURIO, PLACAR = l.split(",")
+            anos[ANO] = (CAMPEAO, VICE, ART, PART, GOLS, SEDE, CURIO, PLACAR)
+            encontrou = True
+     
 
-      torneio = "Copa do Mundo"
-      camp = ('copadomundo.txt')
-
-      for info in camp:
-          if info[0] == str(ano_pesquisa):
-              ano_pesquisa = int(info[0])
-              campeao = info[1]
-              vicecampeao = info[2]
-              artilheiro = info[3]
-              pais = info[4]
-              gols = info[5]
-              sede = info[6]
-              curiosidade = info[7]
-              encontrou = True
-
-  if encontrou == True:
-    print()
-    print("********************************************")
-    print(f"No ano de {ano_pesquisa}, o país sede foi {pais}, o {campeao} foi campeão da {torneio} e o {vicecampeao} foi o vice-campeão. O artilheiro foi {artilheiro} com {gols} gols.")
-    print(f"Sede: {sede}")
-    print(f"Curiosidade: {curiosidade}")
-    print("********************************************")
-    print()
+  if ano_pesquisa in anos:
+     print()
+     print("********************************************")
+     print(f"No ano de {ano_pesquisa}, o país sede foi{anos[ano_pesquisa][5]}, o{anos[ano_pesquisa][0]} foi campeão e o{anos[ano_pesquisa][1]} foi o vice-campeão. O artilheiro foi{anos[ano_pesquisa][2]} do país{anos[ano_pesquisa][3]} com{anos[ano_pesquisa][4]} gols.")
+     print(f"Curiosidade:{anos[ano_pesquisa][6]}")
+     print(f"Placar final:{anos[ano_pesquisa][7]}")
+     print("********************************************")
+     print()
   else:
     print()
     print("Infelizmente não foi possívem encontrar as informações.")

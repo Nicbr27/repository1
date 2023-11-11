@@ -1,24 +1,24 @@
-1930, Uruguai, Argentina, Guillermo Stabile, Argentina, 8, Uruguai, Foi a primeira Copa do Mundo.
-1934, Itália, Tchecoslováquia, Oldřich Nejedlý, Tchecoslováquia, 5, Itália, A primeira Copa do Mundo com sistema de eliminatórias.
-1938, Itália, Hungria, Leônidas, Brasil, 7, Cancelada, A segunda Guerra Mundial resultou na cancelamento da Copa.
-1942, Cancelada, Cancelada, Cancelada, Cancelada, Cancelada, A segunda Guerra Mundial ainda estava em andamento.
-1946, Cancelada, Cancelada, Cancelada, Cancelada, Cancelada, A guerra continuou a afetar o torneio.
-1950, Uruguai, Brasil, Ademir de Menezes, Brasil, 9, Brasil, Final conhecida como o "Maracanazo".
-1954, Alemanha Ocidental, Hungria, Sándor Kocsis, Hungria, 11, Suíça, Surpreendente vitória da Alemanha Ocidental sobre a Hungria.
-1958, Brasil, Suécia, Just Fontaine, França, 13, Suécia, A primeira aparição do Brasil como campeão.
-1962, Brasil, Tchecoslováquia, Vavá/Garrincha, Brasil, 4, Chile, Garrincha brilhou na ausência de Pelé.
-1966, Inglaterra, Alemanha Ocidental, Eusébio, Portugal, 9, Inglaterra, O único título da Inglaterra.
-1970, Brasil, Itália, Gerd Müller, Alemanha, 10, México, A partida épica entre Itália e Alemanha nas semifinais.
-1974, Alemanha Ocidental, Países Baixos, Grzegorz Lato, Polônia, 7, Alemanha Ocidental, O primeiro título da Alemanha Ocidental.
-1978, Argentina, Países Baixos, Mario Kempes, Argentina, 6, Argentina, Argentina venceu em casa com Kempes em destaque.
-1982, Itália, Alemanha Ocidental, Paolo Rossi, Itália, 6, Espanha, O retorno triunfante de Paolo Rossi após suspensão por apostas.
-1986, Argentina, Alemanha Ocidental, Gary Lineker, Inglaterra, 6, México, O famoso "Gol da Mão de Deus" de Maradona.
-1990, Alemanha Ocidental, Argentina, Salvatore Schillaci, Itália, 6, Itália, Disputa tensa nas semifinais entre Itália e Argentina.
-1994, Brasil, Itália, Hristo Stoichkov, Bulgária, 6, Estados Unidos, O Brasil venceu nos pênaltis contra a Itália na final.
-1998, França, Brasil, Davor Šuker, Croácia, 6, França, A França venceu sua primeira Copa em casa.
-2002, Brasil, Alemanha, Ronaldo, Brasil, 8, Coreia do Sul/Japão, Ronaldo brilhou após lesão na Copa de 1998.
-2006, Itália, França, Miroslav Klose, Alemanha, 5, Alemanha, Final marcada pela polêmica cabeçada de Zidane.
-2010, Espanha, Países Baixos, Thomas Müller, Alemanha, 5, África do Sul, A Espanha conquistou seu primeiro título.
-2014, Alemanha, Argentina, James Rodríguez, Colômbia, 6, Brasil, A maior goleada da história em uma semifinal: 7-1 para a Alemanha.
-2018, França, Croácia, Harry Kane, Inglaterra, 6, Rússia, A França conquistou seu segundo título.
-2022, Argentina, França, Kylian Mbappé, França, 8, Catar, A primeira Copa do Mundo no Oriente Médio.
+1930, Uruguai, Argentina, Guillermo Stabile, Argentina, 8, Uruguai, Foi a primeira Copa do Mundo, 4 x 2.
+1934, Itália, Tchecoslováquia, Oldřich Nejedlý, Tchecoslováquia, 5, Itália, A primeira Copa do Mundo com sistema de eliminatórias, 2 x 1.
+1938, Itália, Hungria, Leônidas, Brasil, 7, Cancelada, A segunda Guerra Mundial resultou na cancelamento da Copa, 4 x 2.
+1942, Cancelada, Cancelada, Cancelada, Cancelada, Cancelada, A segunda Guerra Mundial ainda estava em andamento, Cancelada, Cancelada.
+1946, Cancelada, Cancelada, Cancelada, Cancelada, Cancelada, A guerra continuou a afetar o torneio, Cancelada, Cancelada.
+1950, Uruguai, Brasil, Ademir de Menezes, Brasil, 9, Brasil, Final conhecida como o "Maracanazo", 2 x 1.
+1954, Alemanha Ocidental, Hungria, Sándor Kocsis, Hungria, 11, Suíça, Surpreendente vitória da Alemanha Ocidental sobre a Hungria, 3 x 2.
+1958, Brasil, Suécia, Just Fontaine, França, 13, Suécia, A primeira aparição do Brasil como campeão, 5 x 2.
+1962, Brasil, Tchecoslováquia, Vavá/Garrincha, Brasil, 4, Chile, Garrincha brilhou na ausência de Pelé, 3 x 1.
+1966, Inglaterra, Alemanha Ocidental, Eusébio, Portugal, 9, Inglaterra, O único título da Inglaterra, 4 x 2.
+1970, Brasil, Itália, Gerd Müller, Alemanha, 10, México, A partida épica entre Itália e Alemanha nas semifinais, 4 x 1.
+1974, Alemanha Ocidental, Países Baixos, Grzegorz Lato, Polônia, 7, Alemanha Ocidental, O primeiro título da Alemanha Ocidental, 2 x 1.
+1978, Argentina, Países Baixos, Mario Kempes, Argentina, 6, Argentina, Argentina venceu em casa com Kempes em destaque, 3 x 1.
+1982, Itália, Alemanha Ocidental, Paolo Rossi, Itália, 6, Espanha, O retorno triunfante de Paolo Rossi após suspensão por apostas, 3 x 1.
+1986, Argentina, Alemanha Ocidental, Gary Lineker, Inglaterra, 6, México, O famoso "Gol da Mão de Deus" de Maradona, 3 x 2.
+1990, Alemanha Ocidental, Argentina, Salvatore Schillaci, Itália, 6, Itália, Disputa tensa nas semifinais entre Itália e Argentina, 1 x 0.
+1994, Brasil, Itália, Hristo Stoichkov, Bulgária, 6, Estados Unidos, O Brasil venceu nos pênaltis contra a Itália na final, 0 x 0 no tempo normal e 3 x 2 nos pênaltis.
+1998, França, Brasil, Davor Šuker, Croácia, 6, França, A França venceu sua primeira Copa em casa, 3 x 0.
+2002, Brasil, Alemanha, Ronaldo, Brasil, 8, Coreia do Sul/Japão, Ronaldo brilhou após lesão na Copa de 1998, 2 x 0.
+2006, Itália, França, Miroslav Klose, Alemanha, 5, Alemanha, Final marcada pela polêmica cabeçada de Zidane, 1 x 1 no tempo normal e 5 x 3 nos pênaltis.
+2010, Espanha, Países Baixos, Thomas Müller, Alemanha, 5, África do Sul, A Espanha conquistou seu primeiro título, 1 x 0.
+2014, Alemanha, Argentina, James Rodríguez, Colômbia, 6, Brasil, A maior goleada da história em uma semifinal: 7-1 para a Alemanha, 1 x 0.
+2018, França, Croácia, Harry Kane, Inglaterra, 6, Rússia, A França conquistou seu segundo título, 4 x 2.
+2022, Argentina, França, Kylian Mbappé, França, 8, Catar, A primeira Copa do Mundo no Oriente Médio, 3 x 3 no tempo normal e 4 x 2 nos pênaltis.
